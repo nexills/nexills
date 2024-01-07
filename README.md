@@ -9,7 +9,6 @@ What I can do:
 - C/C++, Python, C#, Java
 - HTML, CSS, Javascript, React JS
 - SQL, JDBC, Pyodbc, Spring & Spring Boot
-- Stay inside for weeks without ever feeling the need to go and touch grass
 
 
 
